@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ラヴ",
+  "base_artist": "Nat King Cole",
+  "createdAt": "2025-12-23T15:36:04.459455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビザール・ラヴ・トライアングル",
+      "artist": "ニュー・オーダー",
+      "has_synced": true,
+      "path": "select/01_ビザール・ラヴ・トライアングル_ニュー・オーダー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トゥー・ファースト・フォー・ラヴ",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/02_トゥー・ファースト・フォー・ラヴ_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シー・オブ・ラヴ",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/03_シー・オブ・ラヴ_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セイヴ・アワ・ラヴ",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/04_セイヴ・アワ・ラヴ_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユニヴァーサル・ラヴ・スクワッド",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/05_ユニヴァーサル・ラヴ・スクワッド_Epica.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラヴ・トゥ・ユー",
+      "artist": "The Summer Set",
+      "has_synced": false,
+      "path": "select/06_ラヴ・トゥ・ユー_The_Summer_Set.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラヴ・アット・ファースト・サイト",
+      "artist": "カイリー・ミノーグ",
+      "has_synced": true,
+      "path": "select/07_ラヴ・アット・ファースト・サイト_カイリー・ミノーグ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サマー・ラヴ",
+      "artist": "ショーラ・アーマ",
+      "has_synced": false,
+      "path": "select/08_サマー・ラヴ_ショーラ・アーマ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イズ・ディス・ラヴ",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/09_イズ・ディス・ラヴ_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラヴ・エイント・ノー・ストレンジャー",
+      "artist": "Whitesnake",
+      "has_synced": false,
+      "path": "select/10_ラヴ・エイント・ノー・ストレンジャー_Whitesnake.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ザ・ディーパー・ザ・ラヴ",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/11_ザ・ディーパー・ザ・ラヴ_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スロー・ラヴ",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/12_スロー・ラヴ_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エディー・マイ・ラヴ",
+      "artist": "The Chordettes",
+      "has_synced": false,
+      "path": "select/13_エディー・マイ・ラヴ_The_Chordettes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ドント・レット・ゴー(ラヴ)",
+      "artist": "En Vogue",
+      "has_synced": true,
+      "path": "select/14_ドント・レット・ゴー(ラヴ)_En_Vogue.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ネヴァー・マイ・ラヴ(かなわぬ恋)",
+      "artist": "アソシエイション",
+      "has_synced": false,
+      "path": "select/15_ネヴァー・マイ・ラヴ(かなわぬ恋)_アソシエイション.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラヴ・ソング",
+      "artist": "Susumu Hirasawa",
+      "has_synced": false,
+      "path": "select/16_ラヴ・ソング_Susumu_Hirasawa.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アイム・スティル・イン・ラヴ・ウィズ・ユー",
+      "artist": "New Edition",
+      "has_synced": false,
+      "path": "select/17_アイム・スティル・イン・ラヴ・ウィズ・ユー_New_Edition.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ファック・ラヴ",
+      "artist": "All That Remains",
+      "has_synced": false,
+      "path": "select/18_ファック・ラヴ_All_That_Remains.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "シークレット・ラヴ",
+      "artist": "ドリス・デイ",
+      "has_synced": true,
+      "path": "select/19_シークレット・ラヴ_ドリス・デイ.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "アイム・スティル・イン・ラヴ・ウィズ・ユー[feat.サシャ]",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/20_アイム・スティル・イン・ラヴ・ウィズ・ユー[feat.サシャ]_Sean_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "L-O-V-E",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/pl_01_L-O-V-E_Nat_King_Cole.txt"
+    }
+  ]
+}
